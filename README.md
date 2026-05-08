@@ -12,7 +12,7 @@ A personal profile page using only HTML.
 - At least one image
 
 ## Sample Page
--  https://patricia-sigei.github.io/Modara-HTML-Sample-page/
+-  https://modara-html-sample-page.vercel.app/
 
 ## Submission
 - Create your own GitHub repo
