@@ -7,7 +7,7 @@ A personal profile page using only HTML.
 - Your name as the main heading
 - A short About Me paragraph
 - A list of 3–5 hobbies or interests
-- A favourite quote wrapped in a blockquote <blockquote>
+- A favourite quote wrapped in a blockquote ` <blockquote> `
 - A link to a website you like
 - At least one image
 
